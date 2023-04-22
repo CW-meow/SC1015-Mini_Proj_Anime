@@ -5,7 +5,7 @@
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Anime.
 
 <i>Notebook has not been segregated due to columns being unable to be loaded in correct format.</i>
-- [Link to .ipynb](https://github.com/CW-meow/SC1015-Mini_Proj_Anime/blob/main/Project.ipynb)
+- [Link to .ipynb](https://github.com/CW-meow/SC1015-Mini_Proj_Anime/blob/main/Project_final_v1.ipynb)
 
 
 ## Contributors
