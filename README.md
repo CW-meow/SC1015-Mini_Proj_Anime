@@ -63,5 +63,6 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 - <https://www.animenewsnetwork.com/answerman/2017-05-31/.116809>
 - <https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python>
+- <https://www.datatechnotes.com/2019/06/regression-example-with-xgbregressor-in.html>
 - <https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/>
 - <https://slidesgo.com/theme/cosplay-workshop#search-anime&position-13&results-40&rs=search>
