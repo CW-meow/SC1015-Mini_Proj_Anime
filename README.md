@@ -42,8 +42,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## Models Used
 
 1. Linear Regression
-2. Extreme Gradient Boosting
-3. Random Forest Regression
+2. Random Forest Regressor 
+3. Extreme Gradient Boosting
 
 ## Conclusion
 
@@ -56,7 +56,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 ## What did we learn from this project?
 
 - Regex to clean strings.
-- Extreme Gradient Boosting and Random Forest Regression.
+- Extreme Gradient Boosting, Random Forest Regression, RandomSearchCV.
 - Collaborating using Kaggle.
 
 ## References
