@@ -16,8 +16,8 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Problem Definition
 
-- What makes an Anime good (Score/Popularity)?
-- Can we predict if an Animes' Score/ Popularity?
+- What makes an Anime good?
+- Can we predict an Animes' Popularity (Which indicates how good an Anime is)?
 
 ## Datasets
 
