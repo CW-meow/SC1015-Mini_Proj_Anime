@@ -10,7 +10,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 ## Contributors
 
-- B128 Team 1
+<b><u>B128 Team 1</u><b>
 - Chen Wei - Data Cleaning, Explaratory Data Analysis, Data Visualization
 - Aaron - Explaratory Data Analysis, Data Visualization
 - Yon Nan - Explaratory Data Analysis, Data Visualization
